@@ -6,8 +6,8 @@ int main(){
 
 cout<<"Hello Word ";
 
-cout<<" privet "
+cout << " privet "
 
-
+cout << " Не привет";
 return 0;
 }
